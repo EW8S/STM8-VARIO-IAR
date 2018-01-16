@@ -1,0 +1,66 @@
+P-CAD Net List Load Errors
+
+======================================================================
+
+Netlist filename: D:\STM8\pcb\vario.net
+Warning: line 886
+   * Component U1 of type STM8S103C8T6 loaded with a pattern mismatch between the library (TSSOP20) and netlist file (SSOP-20)
+SHORTED NETS:
+
+
+Net List Errors:   0
+Net List Warnings: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+26-Apr-17  11:31                                            Page    1
+
